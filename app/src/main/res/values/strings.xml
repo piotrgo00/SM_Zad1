@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SM_Zad1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q0">Poprawna odpowiedź to prawda</string>
+    <string name="q1">Poprawna odpowiedź to fałsz</string>
+    <string name="q2">Ziemniaki rosną na drzewach</string>
+    <string name="q3">W Chinach zakazane jest przytulanie drzew</string>
+    <string name="q4">Widelec pojawił się we Włoszech wcześniej niż w jakimkolwiek innym kraju</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+</resources>
