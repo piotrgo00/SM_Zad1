@@ -10,4 +10,6 @@
     <string name="q4">Widelec pojawił się we Włoszech wcześniej niż w jakimkolwiek innym kraju</string>
     <string name="incorrect_answer">Niepoprawna odpowiedź</string>
     <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
 </resources>
